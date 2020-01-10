@@ -58,17 +58,18 @@ get_icon_practical_filenames () {
 		"lang_ko.png")
 			icon_practical_filenames=(
 				"rime-im-qyeyshanglr_hanja.png"
-				"rime-im-ssyleigi_hanguge.png" # personal
+				"rime-im-soolegi_hangugeo.png" # personal
 			)
 			;;
 		"lang_ko_hanja.png")
 			icon_practical_filenames=(
-				"rime-im-ssyleigi_hanza.png" # personal
+				"rime-im-soolegi_hanja.png" # personal
 			)
 			;;
 		"lang_ko_yethan-3.png")
 			icon_practical_filenames=(
-				"rime-im-ssyleigi_jeishangyl.png" # personal
+				"rime-im-soolegi_yethangeul.png" # personal
+				"rime-im-slg_dubeolsik_yethangeul.png" # personal
 			)
 			;;
 		"lang_latn.png")
