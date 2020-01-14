@@ -36,6 +36,8 @@
 --> <img src="https://raw.githubusercontent.com/szc126/fcitx-skin-w9/master/rime.png" /><!--
 --> <img src="https://raw.githubusercontent.com/szc126/fcitx-skin-w9/master/x.png" />
 
+<img src="https://gist.githubusercontent.com/szc126/b50caf5ceb06b50f72ea08ed95eb0051/raw/w9_terra.png" />
+
 ## 特別鳴謝
 
 * [PikoPixel](http://twilightedge.com/mac/pikopixel/)
